@@ -5,9 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background: black;
+  background: black;
+  background: black;
+  overflow-x: hidden;
+  font-family: "Acumin Regular";
+  color: white;
+  box-sizing: border-box;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.app {
+  text-align: center;
+  background: black;
+  background: black;
+  background: black;
+}
+
+.app__title {
+  font-family: "Monument Bold";
+  color: white;
+  font-size: 3.5rem;
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+.app__subtitle {
+  font-family: "Monument Light";
+}
+
+.highlight {
+  color: yellow
 }
