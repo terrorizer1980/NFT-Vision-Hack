@@ -1508,10 +1508,10 @@
   resolved "https://registry.yarnpkg.com/@onflow/types/-/types-0.0.4.tgz#d4a9c3e301d23182dd256b73d3679c952fe653f0"
   integrity sha512-47r0qTM45mR7FSvyEE0njGljkpgy3MCf/2W82pfZ/PTFGWr1nsGV/4j2bUfK9Sry4Ymz2W20iRZVP3xpqOhqGw==
 
-"@onflow/types@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@onflow/types/-/types-0.0.5.tgz#933f12dd85eadfec1ab62d23bd767e993c7be0cf"
-  integrity sha512-Pgh3hz3Cr8KPpkaDd1E3FdQRASGqpfA1NK7dtgz+6xdTdESeqU2z0ksocrOdfy9ikRvKt4RyFmDuXPx2CVbjuQ==
+"@onflow/types@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@onflow/types/-/types-0.0.6.tgz#4fb20754565da4995a1b0b71b01210947f899841"
+  integrity sha512-2eBrmqiFO37EUOJvzksygP8Wu6lL/m9az36AF0qYdGQW/79KGCHBCchUsIzxyGt8UDXl/dgnIcMkiTH7tWZqXg==
 
 "@onflow/util-actor@0.0.2":
   version "0.0.2"
